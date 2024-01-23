@@ -45,6 +45,7 @@ Explore Page
 Details Page  
 :-------------------------:
 ![NextLevel Meals Details](screenshots/screenshot-nextlevel-meals-details.png) |
+
 Share Page  
 :-------------------------:
 ![NextLevel Meals Share](screenshots/screenshot-nextlevel-meals-share.png) |
