@@ -37,12 +37,15 @@ Nextjs 14, App Routing, Javascript (not typescript), CSS Modules, SQLite3, bette
 Home Page  
 :-------------------------:
 ![NextLevel Meals Home](screenshots/screenshot-nextlevel-meals-home.png) |
+
 Explore Page  
 :-------------------------:
 ![NextLevel Meals Explore](screenshots/screenshot-nextlevel-meals-explore.png) |
+
 Details Page  
 :-------------------------:
 ![NextLevel Meals Details](screenshots/screenshot-nextlevel-meals-details.png) |
+
 Share Page  
 :-------------------------:
 ![NextLevel Meals Share](screenshots/screenshot-nextlevel-meals-share.png) |
