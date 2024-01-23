@@ -33,3 +33,20 @@ npm run dev
 Nextjs 14, App Routing, Javascript (not typescript), CSS Modules, SQLite3, better-sqlite3, slugify, xss
 
 ## Screenshots
+
+Home Page  
+:-------------------------:
+![NextLevel Meals Home](screenshots/screenshot-nextlevel-meals-home.png) |
+Explore Page  
+:-------------------------:
+![NextLevel Meals Explore](screenshots/screenshot-nextlevel-meals-explore.png) |
+Details Page  
+:-------------------------:
+![NextLevel Meals Details](screenshots/screenshot-nextlevel-meals-details.png) |
+Share Page  
+:-------------------------:
+![NextLevel Meals Share](screenshots/screenshot-nextlevel-meals-share.png) |
+
+## Credits
+
+Based on the [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide) course by Maximilian Schwarzmüller.
