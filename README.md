@@ -2,6 +2,10 @@
 
 This is an example project I have written using Nextjs framework. NextLevel Meals allows you to share your favorite meal or recipe. Includes server and web components.
 
+## Stack
+
+Nextjs 14, App Routing, Javascript (not typescript), CSS Modules, SQLite3, better-sqlite3, slugify, xss
+
 ## Usage
 
 1. Clone the repository:
@@ -27,10 +31,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-## Stack
-
-Nextjs 14, App Routing, Javascript (not typescript), CSS Modules, SQLite3, better-sqlite3, slugify, xss
 
 ## Screenshots
 
